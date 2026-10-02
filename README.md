@@ -17,7 +17,7 @@ Binary Playground is a single-page website that presents a curated collection of
 - HTML5 (Semantic markup)
 - CSS3 (Custom properties, Flexbox, Responsive design)
 - Google Fonts (Pixelify Sans & Inter)
-- Plausible Analytics (Privacy-friendly analytics)
+- binary-analytics (first-party, cookieless analytics: `/a/s.js`, served by the nginx vhost)
 
 ## Design Features
 

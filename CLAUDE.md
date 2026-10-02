@@ -26,7 +26,7 @@ binaryplayground/
 - **Layout**: Centered content with 800px max-width container, portfolio items in 450px width
 - **Style**: Professional, minimalistic design with no rounded corners
 - **Responsive**: Mobile-friendly with breakpoints at 768px and 480px
-- **Analytics**: Plausible analytics for privacy-friendly tracking
+- **Analytics**: binary-analytics' first-party beacon (`<script defer src="/a/s.js">`), served by this site's nginx vhost from the binary-analytics checkout; no third-party script, no cookies
 
 ## Context7
 
